@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.as {
+    padding-top: 20px;
+    padding-bottom: 20px;
+     
+}
+
+.container{
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
+
+}
+.vampir{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #F6F4EC;
+}
+.rasm2{
+    width: 1200px;
+}
+.sd{
+    color: #B4604D;
+    gap: 30px;
+    display: flex;
+    padding-top: 16px;
+    text-decoration: none;
+    list-style: none;
+}
+.sd li a{
+    color: #B4604D;
+}
+.uz{
+    color: #B4604D;
+    padding-top: 16px;
+}
+.member{
+    background-color: #A9AE8D;
+    padding-bottom: 20px;
+}
+.ac{
+    padding-top: 30px;
+  color: #F6F4EC;
+}
+.az{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #F6F4EC;
+}
+.av{
+    background-color: #B45F4D;
+    color: #FFFFFF;
+}
+.rar{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: #F6F4EC;
+     
+     
+}
+.kj{
+    color: #B45F4D;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.sas{
+padding-top: 15px;
+padding-bottom: 15px;
+justify-content: space-between;
+background-color: #F6F4EC;
+display: flex;
+}
+.ass{
+    padding-top: 15px;
+    padding-bottom: 15px;
+     
+}
+.xax img{
+width: 400px;
+height: 650px;
+}
+.aza{
+    width: 400px;
+    height: 650px;
+    display: flex;
+    justify-content: space-between;
+}
