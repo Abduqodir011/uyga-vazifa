@@ -1,2 +1,1 @@
-# uyga-vazifa
-# uyga-vazifa1
+# uyga-vazifa8
